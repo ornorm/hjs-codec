@@ -1,0 +1,30 @@
+{
+  "name": "hjs-codec",
+  "version": "1.0.0",
+  "description": "Codec for Hubrisjs framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/has-codec.git"
+  },
+  "keywords": [
+    "Codec",
+    "Base64"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/has-codec/issues"
+  },
+  "homepage": "https://github.com/ornorm/has-codec#readme",
+  "dependencies": {
+    "hjs-core": "^1.0.0",
+    "hjs-io": "^1.0.0"
+  }
+}
